@@ -1,0 +1,1 @@
+x=msgbox("hahaha your files have been deleted" ,16, "HAHAHAHAHAHAHAHA")
